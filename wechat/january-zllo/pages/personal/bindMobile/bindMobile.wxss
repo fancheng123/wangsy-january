@@ -1,6 +1,0 @@
-/* pages/personal/bindMobile/bindMobile.wxss */
-
-.van-cell__title  {
-    max-width:70px;
-    min-width:70px;
-}

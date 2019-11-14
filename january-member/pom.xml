@@ -131,7 +131,6 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
         </dependency>
-
         <!-- 自定义 -->
         <dependency>
             <artifactId>smile-common</artifactId>
